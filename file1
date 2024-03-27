@@ -1,7 +1,16 @@
 hello world,good morning!
 hi ,this is anusha
 how r u all?
+<<<<<<< HEAD
 sample msg1
 sample msg2
 sample msg3
-
+sample msg4
+sample msg5
+=======
+test msg1
+test msg2
+test msg3
+test msg4
+test msg5
+>>>>>>> r1
