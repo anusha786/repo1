@@ -1,0 +1,152 @@
+[33mcommit 04e370aafc38a29af01ac3f787d2309c52c3c1ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Thu Mar 28 09:25:48 2024 +0530
+
+    sample file
+
+[33mcommit f01f254d89e3b5fce441aafea8ae7bca98eaf283[m
+Merge: e0a37b6 cea4b05
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Thu Mar 28 08:13:18 2024 +0530
+
+    Merge branch 'r1'
+
+[33mcommit e0a37b6468fad1920e2b9a1a5e3312eeab0cb5eb[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Thu Mar 28 06:20:49 2024 +0530
+
+    sample file1
+
+[33mcommit c6053ce9c7a85cc0d28347cdc1738aa0e01ab16c[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Thu Mar 28 06:13:24 2024 +0530
+
+    sample cmt k7 k8
+
+[33mcommit cea4b051156fa87a46ce71807bce367b1e869211[m[33m ([m[1;32mr1[m[33m)[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Thu Mar 28 06:12:45 2024 +0530
+
+    sample cmt k5 k6
+
+[33mcommit 2c81c744a04c2b48f3a2ad6af1f416a61dfb1800[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Thu Mar 28 06:08:22 2024 +0530
+
+    sample commit
+
+[33mcommit 3c276a9a7fb21d0ba0c297a902d1e72579dad851[m
+Merge: 1e18b92 14a785a
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Wed Mar 27 23:27:06 2024 +0530
+
+    sample file1
+
+[33mcommit 1e18b92fcb6c0579bd1bfec50e6e50035346431f[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Wed Mar 27 23:21:45 2024 +0530
+
+    sample commit file1
+
+[33mcommit 14a785adfa900d9584acbd17e544320e47755a58[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Wed Mar 27 23:19:12 2024 +0530
+
+    sample commit file1
+
+[33mcommit 322059b18b31a9924942197a3a6242eaffb3f082[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/br2[m[33m, [m[1;31morigin/br1[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mbr1[m[33m)[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Fri Mar 22 10:05:55 2024 +0530
+
+     am1 file from main
+
+[33mcommit 032569c49894e524150c2c84fa326bb60996727a[m
+Merge: 85cb82c b7aa66d
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Fri Mar 22 09:56:01 2024 +0530
+
+    Merge branch 'main' of https://github.com/anusha786/repo1
+
+[33mcommit 85cb82c36adc8ba6d6a709a479563744bbebfe61[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Fri Mar 22 09:32:10 2024 +0530
+
+     data add m2 file
+
+[33mcommit b09a022d891ab0e4cfdbbd1271b975f11eed0c0d[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Fri Mar 22 09:26:35 2024 +0530
+
+    m1 file
+
+[33mcommit 20c557271e0eee13d0fe7d511bfcac9f29e1b6ba[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Fri Mar 22 09:21:43 2024 +0530
+
+    m1 to m3
+
+[33mcommit b7aa66df68cce4d79e560773763b1956d7649965[m
+Author: anusha786 <163505777+anusha786@users.noreply.github.com>
+Date:   Fri Mar 22 05:28:52 2024 +0530
+
+    sample data added by anu
+
+[33mcommit 2e4d73d40e75f8b9c2ef73ce7b35e439c80d8ae7[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Thu Mar 21 20:51:16 2024 +0530
+
+    test file a1
+
+[33mcommit 45c23575f6086e69375715c991f36e077c74b270[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Wed Mar 20 16:37:21 2024 +0530
+
+    data added
+
+[33mcommit f4918e10150b09e50d9d6c02359d85e0a7e5d370[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Wed Mar 20 16:30:59 2024 +0530
+
+    delete file2
+
+[33mcommit a1524680302ddb6958b860ce56fc1cc45749bb44[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Wed Mar 20 16:22:25 2024 +0530
+
+    modified files
+
+[33mcommit 66b6f0f782c37cc3533815048039d88e44930964[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Wed Mar 20 09:46:30 2024 +0530
+
+    practice file
+
+[33mcommit 519fb02211e5a3c3d40d471c974af354519bd74e[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Wed Mar 20 05:08:32 2024 +0530
+
+    modified data
+
+[33mcommit 4e65ec4f98107eea3c4001248c50e7baf3795270[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Fri Mar 15 20:42:21 2024 +0530
+
+    commit file3
+
+[33mcommit 7e241df71863bc5d42ee4b469a2f7e5f7d11b10c[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Fri Mar 15 17:32:18 2024 +0530
+
+    sample file2
+
+[33mcommit 46831c77945e5a342bb55650d1c52f3e16aba11e[m
+Author: marri anusha <marri.anusha786@gmail.com>
+Date:   Fri Mar 15 17:12:13 2024 +0530
+
+    sample commit
+
+[33mcommit ec9186b8da5a25dd14935dfa2e083c4b2c9e99be[m
+Author: anusha786 <163505777+anusha786@users.noreply.github.com>
+Date:   Fri Mar 15 13:02:09 2024 +0530
+
+    Initial commit
